@@ -1,10 +1,10 @@
 # SkyBlock Event Bot
 
-A private Discord bot for me and my friends to check SkyBlock event timings and mayor election data.
+A private Discord bot for me to check SkyBlock event timings and mayor election data.
 
 ## Purpose
 
-This bot is strictly for **personal, non-commercial use** among a small group of friends. It helps us track SkyBlock events without needing to check in-game constantly.
+This bot is strictly for **personal, non-commercial use**. It helps me track SkyBlock events without needing to check in-game constantly.
 
 ## What It Does
 
@@ -27,16 +27,15 @@ This bot is strictly for **personal, non-commercial use** among a small group of
 
 ### Request Pattern
 
-- **Frequency**: On-demand only (triggered by user commands)
+- **Frequency**: On-demand only (triggered by me using commands)
 - **Caching**: 60-second cache to minimize requests
 - **No Automation**: No polling, timers, or scheduled tasks
 - **Rate Limiting**: Respects Hypixel's rate limits with built-in caching
 
 ### User Base
 
-- Private Discord server
-- Approximately 5-10 active users (friends group)
-- Estimated usage: 10-30 API calls per day
+- Private Discord server with only me
+- Estimated usage: 10 API calls per day
 
 ### Data Handling
 
